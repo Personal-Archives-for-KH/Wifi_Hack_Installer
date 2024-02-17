@@ -1,20 +1,28 @@
-# THBD
-### Wifi_Hack_Installer
-### Note:Your Device Must Be Rooted.
+
+# Wifi_Hack_Installer
+## Note:Your Device Must Be Rooted.
   
    🤟 Installation:
 
+
+
+### Update and upgrade packages
 ```
-$ pkg update && pkg upgrade
-
-$ pkg install git python
-
-$ git clone https://github.com/Mahfuz-THBD/Wifi_Hack_Installer
-
-$ cd Wifi_Hack_Installer
-
-$ python Installer.py
+yes Y | pkg update && pkg upgrade -y
 ```
-# Wifi_Hack Repo
-
-https://github.com/Mahfuz-THBD/Wifi_Hack
+### Install git and python packages
+```
+pkg install git python -y
+```
+### Clone the Wifi_Hack_Installer repository
+```
+git clone https://github.com/Personal-Archives-for-KH/Wifi_Hack_Installer
+```
+### Change directory to Wifi_Hack_Installer
+```
+cd Wifi_Hack_Installer
+```
+# Run the Installer.py script
+```
+python Installer.py -y
+```
