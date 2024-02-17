@@ -1,6 +1,4 @@
-My apologies for the confusion. Here is the content you requested in markdown format:
 
-```markdown
 # Wifi Hack Installer
 ## Note: Your Device Must Be Rooted.
   
