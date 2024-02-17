@@ -30,5 +30,5 @@ cd
 ```
 ### Now run script
 ```
-
+sudo python Wifi_Hack/birihack.py -i wlan0 -K
 ```
