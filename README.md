@@ -1,28 +1,23 @@
-
-# Wifi_Hack_Installer
-## Note:Your Device Must Be Rooted.
+<div style="text-align: center;">
+  <h1>Wifi Hack Installer</h1>
+  <h2>Note: Your Device Must Be Rooted.</h2>
   
-   🤟 Installation:
+  <div style="text-align: left;">
+    <h3>🤟 Installation:</h3>
 
+    <h4>Update and upgrade packages</h4>
+    <code>yes Y | pkg update && pkg upgrade -y</code>
 
+    <h4>Install git and python packages</h4>
+    <code>pkg install git python -y</code>
 
-### Update and upgrade packages
-```
-yes Y | pkg update && pkg upgrade -y
-```
-### Install git and python packages
-```
-pkg install git python -y
-```
-### Clone the Wifi_Hack_Installer repository
-```
-git clone https://github.com/Personal-Archives-for-KH/Wifi_Hack_Installer
-```
-### Change directory to Wifi_Hack_Installer
-```
-cd Wifi_Hack_Installer
-```
-# Run the Installer.py script
-```
-python Installer.py -y
-```
+    <h4>Clone the Wifi Hack Installer repository</h4>
+    <code>git clone https://github.com/Personal-Archives-for-KH/Wifi_Hack_Installer</code>
+
+    <h4>Change directory to Wifi Hack Installer</h4>
+    <code>cd Wifi_Hack_Installer</code>
+
+    <h4>Run the Installer.py script</h4>
+    <code>python Installer.py -y</code>
+  </div>
+</div>
