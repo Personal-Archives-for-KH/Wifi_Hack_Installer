@@ -24,3 +24,11 @@ cd Wifi_Hack_Installer
 ```
 python Installer.py -y
 ```
+### Go back to main directory
+```
+cd
+```
+### Now run script
+```
+
+```
